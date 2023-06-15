@@ -1,6 +1,6 @@
 *
  * File: 0-print_dlistint.c
- * Auth: Ofugeez
+ * Auth: Calvin
  */
 
 #include "lists.h"
